@@ -1,4 +1,4 @@
-## Ton Jackpot Smart Contract Beta 0.272
+## Telegram Jackpot Smart Contract Beta 0.272
 
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![FunC](https://img.shields.io/badge/made%20with-FunC-brightgreen)](https://ton.org/docs/#/func)
@@ -6,7 +6,7 @@
 [![toncli](https://img.shields.io/badge/for%20use%20with-toncli-green)](https://github.com/disintar/toncli)
 [![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/)
 
-TON based smart contract, that can be used to play a lottery.
+Blockchain based smart contract, that can be used to play a lottery.
 
 ### Setup guide
 
